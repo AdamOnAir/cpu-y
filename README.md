@@ -1,2 +1,7 @@
 # cpu-y
-A better CPU-X, cross-platform
+
+Cross-platform CPU-X and CPU-Z alternative.
+
+## State
+
+The project will only be started when [VDL](https://github.com/AdamOnAir/vdl) v2 will be released.
