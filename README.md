@@ -1,6 +1,6 @@
 # cpu-y
 
-Cross-platform CPU-X and CPU-Z alternative.
+Linux CPU-X alternative.
 
 ## State
 
